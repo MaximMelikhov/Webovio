@@ -82,19 +82,19 @@ background-size: cover;
 }
 
 .swiper-slide-1 {
-    background-image: url('/images/slide__1.jpg');
+    background-image: url('./images/slide__1.jpg');
 }
 
 .swiper-slide-2 {
-    background-image: url("/images/slide__2.jpg");
+    background-image: url("./images/slide__2.jpg");
 }
 
 .swiper-slide-3 {
-  background-image: url("/images/slide__3.jpg");
+  background-image: url("./images/slide__3.jpg");
 }
 
 .swiper-slide-4 {
-  background-image: url("/images/slide__4.jpg");
+  background-image: url("./images/slide__4.jpg");
 }
 
 /* Меню-Шапка Бургер*/
@@ -210,23 +210,23 @@ background-size: cover;
 }
 
 .header__client-card-1 {
-    background-image: url('/images/Client-1.png');
+    background-image: url('./images/Client-1.png');
 }
 
 .header__client-card-2 {
-    background-image: url('/images/Client-2.png');
+    background-image: url('./images/Client-2.png');
 }
 
 .header__client-card-3 {
-    background-image: url('/images/Client-3.png');
+    background-image: url('./images/Client-3.png');
 }
 
 .header__client-card-4 {
-    background-image: url('/images/Client-4.png');
+    background-image: url('./images/Client-4.png');
 }
 
 .header__client-card-5 {
-    background-image: url('/images/Client-5.png');
+    background-image: url('./images/Client-5.png');
 }
 
 /* Сервисы */
@@ -299,7 +299,7 @@ background-size: cover;
 .services__right-block-profile-foto {
     width: 170px;
     height: 190px;
-    background-image: url('/images/Services-foto.png');
+    background-image: url('./images/Services-foto.png');
 }
 
 .services__right-block-profile-name {
@@ -356,7 +356,7 @@ background-size: cover;
 
 .project__list-left {
   position: relative;
-  background-image: url('/images/project-slide-1.png');
+  background-image: url('./images/project-slide-1.png');
   background-repeat: no-repeat;
   background-size: contain;
   max-width: 735px;
@@ -393,7 +393,7 @@ display: flex;
 .project__list-left-comment-icon {
   width: 100px;
   height: 85px;
-  background-image: url('/images/project-profile-1.png');
+  background-image: url('./images/project-profile-1.png');
 }
 
 .project__list-left-comment-initials {
@@ -451,13 +451,13 @@ display: flex;
 }
 
 .project__list-left-two {
-  background-image: url('/images/project-slide-2.png');
+  background-image: url('./images/project-slide-2.png');
   margin-right: 0;
   margin-left: 96px;
 }
 
 .project__list-left-comment-icon-two {
-  background-image: url('/images/project-profile-2.png');
+  background-image: url('./images/project-profile-2.png');
 }
 
 .project__list-left-comment-two {
@@ -465,11 +465,11 @@ display: flex;
 }
 
 .project__list-left-three {
-  background-image: url('/images/project-slide-3.png');
+  background-image: url('./images/project-slide-3.png');
 }
 
 .project__list-left-comment-icon-three {
-  background-image: url('/images/project-profile-3.png');
+  background-image: url('./images/project-profile-3.png');
 }
 
 .project__list-left-comment-card-three {
@@ -574,7 +574,7 @@ display: flex;
 
 .footer {
   position: relative;
-  background-image: url('/images/footer__bg.png');
+  background-image: url('./images/footer__bg.png');
   width: 100%;
   height: 920px;
 }
@@ -651,7 +651,7 @@ display: flex;
 .footer__logo {
   width: 200px;
   height: 30px;
-  background-image: url('/images/Logo__footer.png');
+  background-image: url('./images/Logo__footer.png');
 }
 
 .footer__logo-block-text {
